@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Nipon Chandra Pal
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://avatars.githubusercontent.com/u/145328871?v=4)
 
 I’m currently a .NET Developer and SEO Expert, passionate about building powerful web applications and optimizing content for the best search engine performance.
 
